@@ -8,7 +8,7 @@
 <p align="justify"> At the moment I'm learning how to work with tools for automated testing and at the same time I'm working on my own smaller projects.</p>
 <br>
 
-- 🌱 I’m currently learning **Cypress, Postman, Selenium, JavaScript, Java, Python**
+- 🌱 I’m currently learning **Cypress, Postman, Selenium, JavaScript, Java, Python, TypeScript**
 
 - ⚡ Fun fact **In my spare time I like traveling, studying languages.**
 
