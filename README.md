@@ -1,5 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/112717648/205345153-095550f8-8f58-4614-a695-bf4992c97805.png)
+![MasterHead](https://user-images.githubusercontent.com/112717648/209536684-12bfd5fd-7d40-4f4a-84f6-579f2c93c66d.png)
 <br>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaya234&label=Profile%20views&color=0e75b6&style=flat" alt="kaya234" /> </p>
 <h1 align="center">Hi 👋, I'm Karolina Savincova</h1>
 <h3 align="center">I am Junior Tester of VR and Mobile Applications.</h3>
@@ -7,13 +8,13 @@
 <p align="justify"> At the moment I'm learning how to work with tools for automated testing and at the same time I'm working on my own smaller projects.</p>
 <br>
 
-- 🌱 I’m currently learning **Cypress, Postman, Selenium, JavaScript, Java**
+- 🌱 I’m currently learning **Cypress, Postman, Selenium, JavaScript, Java, Python**
 
 - ⚡ Fun fact **In my spare time I like traveling, studying languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karolina savincova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolina savincova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karolina-savincova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolina savincova" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
