@@ -1,26 +1,31 @@
-![MasterHead](https://user-images.githubusercontent.com/112717648/209536684-12bfd5fd-7d40-4f4a-84f6-579f2c93c66d.png)
-<br>
-
+![MasterHead](https://github.com/Kaya234/Kaya234/assets/112717648/b892815b-d4d4-4593-9037-bf4bc4e57b95)
+<h1 align="center">Karolina Savincova</h1>
+<h3 align="center">Software QA Engineer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaya234&label=Profile%20views&color=0e75b6&style=flat" alt="kaya234" /> </p>
-<h1 align="center">Hi 👋, I'm Karolina Savincova</h1>
-<h3 align="center">I am Junior Tester of VR and Mobile Applications.</h3>
+<p align="justify"> I am passionate about web development and eager to learn new technologies.</p>
 <br>
-<p align="justify"> At the moment I'm learning how to work with tools for automated testing and at the same time I'm working on my own smaller projects.</p>
+<h3 align="left">Skills:</h3>
+<b align="left">Programing Languages:</b>
+JavaScript, TypeScript, Python, Java, C#, C  
 <br>
+<b align="left">E2E Testing:</b>
+Selenium, Cypress, Cucumber, Playwright, TestCafe
+<br>
+<br>
+<h3 align="left">Test Automation Projects:</h3>
+<h4>Selenium</h4>
 
-- 🌱 I’m currently learning **Cypress, Postman, Selenium, JavaScript, Java, Python, TypeScript**
+- [Selenium Java](https://github.com/Kaya234/SeleniumJava) - Collection of automated tests using Selenium, Java and Page Object Model.
+- [Selenium Python](https://github.com/Kaya234/SeleniumPY) - Collection of automated tests using Selenium, Python and Page Object Model.
+- [Selenium JavaScript](https://github.com/Kaya234/SeleniumJS) - Collection of automated tests using Selenium, JavaScript and Page Object Model.
 
-- ⚡ Fun fact **In my spare time I like traveling, studying languages.**
+<h4>Cypress</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- [Cypress JavaScript](https://github.com/Kaya234/CypressJS) - Collection of automated tests using Cypress, JavaScript and Page Object Model.
+- [Cypress TypeScript](https://github.com/Kaya234/CypressTS) - Collection of automated tests using Cypress, TypeScript and Page Object Model.
+
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/karolina-savincova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolina savincova" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaya234&show_icons=true&locale=en&layout=compact" alt="kaya234" /></p>
-
-
-
