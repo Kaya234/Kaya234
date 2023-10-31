@@ -6,7 +6,7 @@
 <br>
 <h3 align="left">Skills:</h3>
 <b align="left">Languages:</b>
-JavaScript, TypeScript, Python, Java, C#, C, PHP  
+JavaScript, TypeScript, Python, Java, C#, C, PHP, C++  
 <br>
 <b align="left">E2E Testing:</b>
 Selenium, Cypress, Cucumber, Playwright, TestCafe
