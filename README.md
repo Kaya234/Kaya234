@@ -25,6 +25,13 @@ Selenium, Cypress, Cucumber, Playwright, TestCafe
 - [Cypress TypeScript](https://github.com/Kaya234/CypressTS) - Collection of automated tests using Cypress, TypeScript and Page Object Model.
 
 <br>
+
+<h3 align="left">Web development Projects:</h3>
+<h4>React</h4>
+
+- [Courses Demo Page (React + JSON Server)](https://github.com/Kaya234/react-json-server) - Courses demo page using React and JSON Server.
+
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/karolina-savincova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolina savincova" height="30" width="40" /></a>
