@@ -30,6 +30,7 @@ Selenium, Cypress, Cucumber, Playwright, TestCafe
 <h4>React</h4>
 
 - [Courses Demo Page (React + JSON Server)](https://github.com/Kaya234/react-json-server) - Courses demo page using React and JSON Server.
+- [Courses Demo Page (React + Firebase)](https://github.com/Kaya234/react-firebase) - Courses demo page using React and Firebase.
 
 <br>
 <h3 align="center">Connect with me:</h3>
