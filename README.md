@@ -35,6 +35,7 @@ Selenium, Cypress, Cucumber, Playwright, TestCafe
 <h4>Angular</h4>
 
 - [Courses Demo Page (Angular + JSON Server)](https://github.com/Kaya234/angular-json-server) - Courses demo page using Angular and JSON Server.
+- [Courses Demo Page (Angular + Firebase)](https://github.com/Kaya234/angular-firebase) - Courses demo page using Angular and Firebase.
 
 <br>
 <h3 align="center">Connect with me:</h3>
