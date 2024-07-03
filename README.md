@@ -1,8 +1,8 @@
 ![MasterHead](https://github.com/Kaya234/Kaya234/assets/112717648/b892815b-d4d4-4593-9037-bf4bc4e57b95)
 <h1 align="center">Karolina Savincova</h1>
-<h3 align="center">Software QA Engineer | Junior Web Developer</h3>
+<h3 align="center">Software Engineer | Junior FullStack Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kaya234&label=Profile%20views&color=0e75b6&style=flat" alt="kaya234" /> </p>
-<p align="justify">I am passionate about web development and also eager to learn new technologies. Currently I am studying Front-end and Back-end development to become a web developer.</p>
+<p align="justify">I am passionate about web development and also eager to learn new technologies.</p>
 <br>
 <h3 align="left">Skills:</h3>
 <b align="left">Languages:</b>
